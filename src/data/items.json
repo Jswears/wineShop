@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Château Margaux 2016",
+    "price": 299.99,
+    "imgUrl": "https://www.vinatis.es/62984-detail_default/chateau-margaux-2016-1er-cru-classe.png"
+  },
+  {
+    "id": 2,
+    "name": "Dom Pérignon Vintage 2012",
+    "price": 199.99,
+    "imgUrl": "https://www.drinkshopstore.com/3939-large_default/champagne-dom-perignon-vintage-2012.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Opus One 2017",
+    "price": 249.99,
+    "imgUrl": "https://www.bernardi-karl-shop.com/4976-home_default/opas-one-aaaa-california-rotschild-aaaml.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sassicaia 2018",
+    "price": 169.99,
+    "imgUrl": "https://www.oberhuber-weine.com/images/thumbnail/produkte/large/Sassicaia_flasche_web.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Château Lafite Rothschild 2015",
+    "price": 399.99,
+    "imgUrl": "https://cdn.shoplightspeed.com/shops/611413/files/9626832/chateau-lafite-rothschild-2015-pauillac-bordeaux-f.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Caymus Special Selection Cabernet Sauvignon 2019",
+    "price": 149.99,
+    "imgUrl": "https://www.amadoro.de/media/image/10/c7/c3/Caymus-2016-label-15-Prozent.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ridge Monte Bello 2016",
+    "price": 189.99,
+    "imgUrl": "https://www.alhamracellar.com/wp-content/uploads/1209116.png"
+  },
+  {
+    "id": 8,
+    "name": "Veuve Clicquot Yellow Label Brut Champagne",
+    "price": 59.99,
+    "imgUrl": "https://www.veuveclicquot.com/sites/www.veuveclicquot.com/files/styles/og/public/wine/field_wine_image/yellow_label.png"
+  },
+  {
+    "id": 9,
+    "name": "Gaja Barbaresco 2017",
+    "price": 179.99,
+    "imgUrl": "https://vintage-grapes.com/cdn/shop/products/Gaja_Barbaresco_2017_Magnum_Fullview_ArtNr437_Vintage_Grapes_Gmbh.jpg?v=1685567525"
+  },
+  {
+    "id": 10,
+    "name": "Penfolds Grange 2016",
+    "price": 499.99,
+    "imgUrl": "https://www.vinatis.de/73422-thickbox_default/grange-2018-mit-etui-penfolds.png"
+  }
+]
